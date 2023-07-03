@@ -7,8 +7,8 @@ function checkPositive(number) {
   }
 
 
-console.log(checkPositive(5));     
-console.log(checkPositive(-10));   
+console.log(checkPositive(8));     
+console.log(checkPositive(-8));   
 console.log(checkPositive(0));     
 
 

@@ -8,8 +8,8 @@ const cylinder = {
   };
 
 
-cylinder.radius = 5;
-cylinder.height = 10;
+cylinder.radius = 8;
+cylinder.height = 11;
 console.log(cylinder.calculateArea());   
 
 
